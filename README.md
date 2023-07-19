@@ -14,7 +14,9 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. **Run the Main Bot Process**: Launch the main bot process using the following command:
+1. **Download YOLOv7 model**: Unzip [model.rar](https://drive.google.com/file/d/1q-mnNTfcaQPozw-5yn0wIwZ4LJbBw-vc/view?usp=sharing) inside the `model` folder
+
+2. **Run the Main Bot Process**: Launch the main bot process using the following command:
 
 ```bash
 python main.py
