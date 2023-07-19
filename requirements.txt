@@ -1,0 +1,11 @@
+cv2
+numpy
+# onnxruntime-gpu
+onnxruntime
+scapy
+photon-packet-parser
+pynput
+win32gui
+win32ui
+pillow
+pyautogui
