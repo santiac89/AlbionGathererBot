@@ -1,5 +1,9 @@
 # Albion Gathering Bot with YOLOv7 Object Recognition
 
+### Note
+
+This is not a fully functional product and is only being developed for research purposes. Don't expect anything from it :).
+
 ## Description
 
 This is a Python-based Albion gathering bot that utilizes YOLOv7 object recognition to identify resources in the game world. The bot allows players to automate the resource gathering process, making it easier and more efficient.
